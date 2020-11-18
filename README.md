@@ -53,6 +53,7 @@ I will try bigger number when I get a better computer. It's pretty interesting t
 numbers like n = 20, p =10. I believe the graph will not be as smooth as the initial one.
 Therefore, the next step we can do is to find a p where making the graph smooth. 
 I did some progress on that:
+
 ![20_10](Images/20_10.png)
 ![20_30](Images/20_30.png)
 ![20_50](Images/20_50.png)
